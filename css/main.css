@@ -1,0 +1,17 @@
+body {
+    background: #FFCC00;
+    font-family: 'Metal Mania', system-ui;
+}
+h1 {
+    color: #500049;
+    background-color: yellow;
+    text-align: right;
+}
+img {
+    max-width: 50%;
+}
+@media only screen and (max-width: 800px) {
+    body {
+        background: blue;
+    }
+}
